@@ -21,6 +21,8 @@ Use `source ./venv/bin/activate` to activate the Python 3.10 virtual environment
 
 ## OpenAI GPT-4 API: Extract Structured Data from SEC Filings and Perform Stock Price Impact Analysis
 
+> [Open Jupyter Notebook](./gpt-4-api-extract-data-from-sec-filings/demo.ipynb)
+
 ## SEC-API.io and Other Use Cases
 
 - Material event disclosures
