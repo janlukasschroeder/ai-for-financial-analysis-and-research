@@ -2,3 +2,4 @@ venv
 .env
 __pycache__
 gpt-4-api-extract-data-from-sec-filings/data/edgar/8K-item-4.02/*
+gpt-4-api-extract-data-from-sec-filings/data/historical-prices/*
