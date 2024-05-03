@@ -25,6 +25,10 @@ Use `source ./venv/bin/activate` to activate the Python 3.10 virtual environment
 
 > [Open Jupyter Notebook](./gpt-4-api-extract-data-from-sec-filings/demo.ipynb)
 
+## ChatGPT: Improving Academic Writing with AI
+
+> [Open Jupyter Notebook](./chatgpt-improve-academic-writing/demo.ipynb)
+
 ## SEC-API.io and Other Use Cases
 
 - Material event disclosures
@@ -47,8 +51,6 @@ Use `source ./venv/bin/activate` to activate the Python 3.10 virtual environment
 - Classify reasons for late filing notices (NT 10-K/10-Q) and analyze the impact of different classes on stock prices
 - Find instances where auditors raise substantial doubt about a company's ability to continue as going concern
 - Company valuation framework based on historical stock prices rather than CAPM, DCF, DDM, etc.
-
-## ChatGPT: Improving Academic Writing with AI
 
 ## Miscelaneous
 
