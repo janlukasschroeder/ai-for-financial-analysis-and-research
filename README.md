@@ -15,11 +15,11 @@ Tools used in this series:
 
 Use `source ./venv/bin/activate` to activate the Python 3.10 virtual environment.
 
-## OpenAI GPT-4 API: Extract Structured Data from Papers and Save to Airtable
+## GPT-4 API: Extract Structured Data from Papers and Save to Airtable
 
 > [Open Jupyter Notebook](./gpt-4-api-extract-data-from-papers/demo.ipynb)
 
-## OpenAI GPT-4 API: Extract Structured Data from SEC Filings and Perform Stock Price Impact Analysis
+## GPT-4 API: Extract Structured Data from SEC Filings and Perform Stock Price Impact Analysis
 
 > [Background on Material Event Disclosures in SEC Form 8-K Filings](./gpt-4-api-extract-data-from-sec-filings/8K-background.ipynb)
 
@@ -28,6 +28,10 @@ Use `source ./venv/bin/activate` to activate the Python 3.10 virtual environment
 ## ChatGPT: Improving Academic Writing with AI
 
 > [Open Jupyter Notebook](./chatgpt-improve-academic-writing/demo.ipynb)
+
+## Financial Data Visualization
+
+> [Open Jupyter Notebook](./financial-data-visualization/demo.ipynb)
 
 ## SEC-API.io and Other Use Cases
 
