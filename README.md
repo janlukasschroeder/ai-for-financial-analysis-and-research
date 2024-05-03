@@ -1,4 +1,4 @@
-# Demo Series
+# AI for Financial Analysis & Research
 
 - Python 3.10 is required for the examples in this series.
 
