@@ -2,18 +2,14 @@
 
 ## Use Cases
 
-1. GPT-4 API: Extract Structured Data from Papers and Save to Airtable. [> Open Jupyter Notebook.](./gpt-4-api-extract-data-from-papers/demo.ipynb)
-
+1. GPT-4 API: Extract Structured Data from Papers and Save to Airtable. [Open Jupyter Notebook.](./gpt-4-api-extract-data-from-papers/demo.ipynb)
 2. GPT-4 API: Extract Structured Data from SEC Filings and Perform Stock Price Impact Analysis.
-
-   - [> Open Jupyter Notebook.](./gpt-4-api-extract-data-from-sec-filings/demo.ipynb)
+   - [Open Jupyter Notebook.](./gpt-4-api-extract-data-from-sec-filings/demo.ipynb)
    - [Background on Material Event Disclosures in SEC Form 8-K Filings.](./gpt-4-api-extract-data-from-sec-filings/8K-background.ipynb)
-
-3. ChatGPT: Improve Academic Writing with AI. [> Open Jupyter Notebook.](./chatgpt-improve-academic-writing/demo.ipynb)
-
-4. Financial Data Visualization. [> Open Jupyter Notebook](./financial-data-visualization/demo.ipynb)
-5. SEC-API.io and Other Use Cases. [> Open Jupyter Notebook](./sec-api.io-and-other-use-cases/demo.ipynb)
-6. Books and Further Reading. [> Open Jupyter Notebook](./books-and-further-reading/demo.ipynb)
+3. ChatGPT: Improve Academic Writing with AI. [Open Jupyter Notebook.](./chatgpt-improve-academic-writing/demo.ipynb)
+4. Financial Data Visualization. [Open Jupyter Notebook](./financial-data-visualization/demo.ipynb)
+5. SEC-API.io and Other Use Cases. [Open Jupyter Notebook](./sec-api.io-and-other-use-cases/demo.ipynb)
+6. Books and Further Reading. [Open Jupyter Notebook](./books-and-further-reading/demo.ipynb)
 
 **Tools used in this series:**
 
